@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#icon{
+color: white;
+font-size: 500px;
+font-weight:bolder;
+text-align: center;
+}
