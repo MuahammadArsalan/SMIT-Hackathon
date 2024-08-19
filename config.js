@@ -7,15 +7,14 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.5/firebas
 import { getStorage } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-storage.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBcNwVmh9gZ2l35T6AUFKf_WG035wm6WfA", 
-  authDomain: "buy-sells-corner-8a5a0.firebaseapp.com",
-  projectId: "buy-sells-corner-8a5a0",
-  storageBucket: "buy-sells-corner-8a5a0.appspot.com",
-  messagingSenderId: "845609637016",
-  appId: "1:845609637016:web:fc8db580fc2703b8c5aced",
-  measurementId: "G-WJL31GWQWZ"
+  apiKey: "AIzaSyC9dm9xIGct_-QTzWa-1gc9J-eCJeyCwNc",
+  authDomain: "smit-hackathon-3d5fd.firebaseapp.com",
+  projectId: "smit-hackathon-3d5fd",
+  storageBucket: "smit-hackathon-3d5fd.appspot.com",
+  messagingSenderId: "513747472098",
+  appId: "1:513747472098:web:7cfc1a07ea6cb9aead18bb",
+  measurementId: "G-SN7TH4TP0E"
 };
-
 // Initialize Firebase
 
 const app = initializeApp(firebaseConfig);
